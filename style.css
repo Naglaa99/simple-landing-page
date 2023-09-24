@@ -10,13 +10,13 @@ body {
 }
 
 .header {
-  margin: 50px;
+  margin: 20px 40px;
 }
 .header img {
   width: 200px;
 }
 .section {
-  margin: 50px;
+  margin: 20px 50px;
   display: flex;
   justify-content: space-between;
 }
@@ -102,7 +102,7 @@ body {
     font-size: 15px;
   }
   .section .text .btn button {
-    width: 90%;
+    width: 80%;
   }
   .footer .icons {
     float: none;
@@ -117,6 +117,6 @@ body {
     margin: 8px;
   }
   .footer {
-    margin-top: -20px;
+    margin-top: -30px;
   }
 }
